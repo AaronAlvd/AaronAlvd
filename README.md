@@ -16,7 +16,14 @@ I’m a **Full-Stack Developer** based in California, currently enhancing my ski
 - Gained practical experience with modern technologies and development practices.
 
 ### 🛠️ Technologies & Tools:
-- **Languages:** JavaScript
+- **Languages:** JavaScript, Python, HTML, CSS
 - **Frameworks:** Express, Sequelize
 - **Databases:** PostgreSQL
+
+  ### 💻 Skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff)
+
 
