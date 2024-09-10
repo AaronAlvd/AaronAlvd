@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a **Full-Stack Developer** based in California, currently enhancing my skills at **App Academy**. I have hands-on experience with **Sequelize** and **Express**
+I’m a **Full-Stack Developer** based in California, currently enhancing my skills at **App Academy**. I have hands-on experience with **Sequelize** and **Express**.
 
 ### 🚀 What I’m Working On:
 - Building scalable applications with **Sequelize** and **Express**.
