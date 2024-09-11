@@ -21,9 +21,9 @@ I’m a **Full-Stack Developer** based in California, currently enhancing my ski
 - **Databases:** PostgreSQL
 
   ### 💻 Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff)
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000" alt="JavaScript" width="100"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff" alt="Python" width="100"/>
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=ffffff" alt="HTML" width="100"/>
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff" alt="CSS" width="100"/>
 
 
