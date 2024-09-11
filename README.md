@@ -42,4 +42,8 @@ I’m a **Full-Stack Developer** based in California, currently enhancing my ski
 <!-- Sequelize Logo -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="70"/>
 
+<!-- React Logo -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70"/>
+
+
 </div>
