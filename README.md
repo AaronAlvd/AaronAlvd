@@ -2,7 +2,10 @@
 
 **`Full-Stack Developer`**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaronAlvd&show_icons=true&count_private=true&hide=prs&hide_border=true)
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AaronAlvd&show_icons=true&count_private=true&hide=prs&hide_border=true&theme=gruvbox" alt="GitHub Stats" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronAlvd&layout=compact&hide=html,css&theme=gruvbox" alt="Top Languages" width="400"/>
+</div>
 
 ## About Me
 
@@ -20,11 +23,23 @@ I’m a **Full-Stack Developer** based in California, currently enhancing my ski
 - **Frameworks:** Express, Sequelize
 - **Databases:** PostgreSQL
 
-<div>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000000" alt="JavaScript" width="100" height="30" style="display: inline-block;"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff" alt="Python" width="100" height="30" style="display: inline-block;"/>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=ffffff" alt="HTML" width="100" height="30" style="display: inline-block;"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=ffffff" alt="CSS" width="100" height="30" style="display: inline-block;"/>
+<div style="display:flex;, justify-content:space-around;">
+  <!-- JavaScript Logo -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70"/>
+
+<!-- Python Logo -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70"/>
+
+<!-- HTML Logo -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="70"/>
+
+<!-- CSS Logo -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="70"/>
+
+<!-- Express Logo -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="70"/>
+
+<!-- Sequelize Logo -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="70"/>
+
 </div>
-
-
