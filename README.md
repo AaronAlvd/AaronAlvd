@@ -9,7 +9,7 @@
 
 ## About Me
 
-I’m a **Full-Stack Developer** based in California, currently enhancing my skills at **App Academy**. I have hands-on experience with **Sequelize** and **Express**.
+Hello! I'm a passionate software developer currently studying at both App Academy and a college in California. At App Academy, I'm focusing on intensive software development training, while my college education complements my technical skills with a broader academic foundation. With experience in developing dynamic and user-friendly web applications, I have honed skills in time management, effective communication, teamwork, and problem-solving. My strong background in mathematics enhances my analytical capabilities. I’m dedicated to continuous learning and adapting quickly to new technologies. Feel free to explore my repositories and reach out if you’re interested in collaborating or discussing the latest in tech!
 
 ### 🚀 What I’m Working On:
 - Building scalable applications with **Sequelize** and **Express**.
