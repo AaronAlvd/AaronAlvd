@@ -9,41 +9,54 @@
 
 ## About Me
 
-Hello! I'm a passionate software developer currently studying at both App Academy and a college in California. At App Academy, I'm focusing on intensive software development training, while my college education complements my technical skills with a broader academic foundation. With experience in developing dynamic and user-friendly web applications, I have honed skills in time management, effective communication, teamwork, and problem-solving. My strong background in mathematics enhances my analytical capabilities. I’m dedicated to continuous learning and adapting quickly to new technologies. Feel free to explore my repositories and reach out if you’re interested in collaborating or discussing the latest in tech!
+Hello! I'm a passionate full-stack developer currently studying at App Academy and American River College in California. At App Academy, I am focused on intensive software development training, and my college studies complement my technical skills with a broader academic foundation in Computer Science and Molecular Biology.
 
-### 🚀 What I’m Working On:
-- Building scalable applications with **Sequelize** and **Express**.
+I have developed a range of projects that showcase my skills and creativity. From web applications to game development, I’m constantly honing my craft and exploring new technologies.
+
+### 🚀 Projects I’ve Worked On:
+- **Airbnb Clone**: A full-stack web application where users can book vacation homes, similar to Airbnb. I worked with **React**, **Redux**, **Express**, and **Sequelize** to implement features like user authentication, home listings, and booking functionality. This project sharpened my skills in building scalable web applications and managing complex state with Redux.
+  
+- **Document Webpage**: A web application for downloading website templates and components. Developed using **Flask** and **SQLAlchemy**, this project gave me practical experience in backend development and integrating front-end functionality with a clean and intuitive user interface.
+  
+- **Social Media Application**: An ongoing project built with **React**, **Redux**, **Express**, and **Sequelize**, focused on providing users with real-time interaction capabilities like posts, comments, and social networking features. This project allows me to deepen my knowledge in working with real-time data and creating engaging user experiences.
+
+- **Pygame Project**: I developed a game using **Pygame**, allowing me to explore game mechanics, physics, and logic while further strengthening my Python programming skills. This project was a great way to dive into the world of game development and learn how to bring creative ideas to life through code.
+
+### 🚀 What I’m Currently Working On:
+- Scaling up my **Social Media Application** with new features like notifications and user interaction.
+- Developing more interactive and complex game mechanics in **Pygame**.
+- Continuing to learn and implement the **OpenAI API** into different projects.
 
 ### 🌟 Achievements:
-- Developed and deployed several projects during my training at App Academy.
-- Gained practical experience with modern technologies and development practices.
+- Completed App Academy’s rigorous software development bootcamp, building several full-stack web applications.
+- Gained practical experience with modern technologies like **React**, **Redux**, **Express**, **Sequelize**, and **PostgreSQL**.
+- Developed a **game** using **Pygame** to enhance my Python skills.
 
 ### 🛠️ Technologies & Tools:
 - **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** Express, Sequelize
-- **Databases:** PostgreSQL
+- **Frameworks & Libraries:** React, Redux, Express, Sequelize, Flask, Pygame
+- **Databases:** PostgreSQL, SQLAlchemy
+- **Tools:** Git, GitHub, OpenAI API
 
-<div style="display:flex;, justify-content:space-around;">
+<div style="display:flex; justify-content: space-around;">
   <!-- JavaScript Logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70"/>
 
-<!-- Python Logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70"/>
+  <!-- Python Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70"/>
 
-<!-- HTML Logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="70"/>
+  <!-- HTML Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="70"/>
 
-<!-- CSS Logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="70"/>
+  <!-- CSS Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="70"/>
 
-<!-- Express Logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="70"/>
+  <!-- Express Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="70"/>
 
-<!-- Sequelize Logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="70"/>
+  <!-- Sequelize Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="70"/>
 
-<!-- React Logo -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70"/>
-
-
+  <!-- React Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70"/>
 </div>
