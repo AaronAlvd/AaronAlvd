@@ -2,6 +2,8 @@
 
 **`Full-Stack Developer`**
 
+[Portfolio](aaronalvd.us)
+
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=AaronAlvd&show_icons=true&count_private=true&hide=prs&hide_border=true&theme=gruvbox" alt="GitHub Stats" width="400"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronAlvd&layout=compact&hide=html,css&theme=gruvbox" alt="Top Languages" width="400"/>
