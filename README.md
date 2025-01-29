@@ -16,11 +16,11 @@ I have developed a range of projects that showcase my skills and creativity. Fro
 ### 🚀 Projects I’ve Worked On:
 - **Airbnb Clone**: A full-stack web application where users can book vacation homes, similar to Airbnb. I worked with **React**, **Redux**, **Express**, and **Sequelize** to implement features like user authentication, home listings, and booking functionality. This project sharpened my skills in building scalable web applications and managing complex state with Redux.
   
-- **Document Webpage**: A web application for downloading website templates and components. Developed using **Flask** and **SQLAlchemy**, this project gave me practical experience in backend development and integrating front-end functionality with a clean and intuitive user interface.
+- **WikiDocs**: A Wikipedia-like web application for uploading articles, prompts, and documents. Developed using **React**, **Redux**, **Flask** and **SQLAlchemy**, this project gave me practical experience in backend development and integrating front-end functionality with a clean and intuitive user interface.
+
   
 - **Social Media Application**: An ongoing project built with **React**, **Redux**, **Express**, and **Sequelize**, focused on providing users with real-time interaction capabilities like posts, comments, and social networking features. This project allows me to deepen my knowledge in working with real-time data and creating engaging user experiences.
 
-- **Pygame Project**: I developed a game using **Pygame**, allowing me to explore game mechanics, physics, and logic while further strengthening my Python programming skills. This project was a great way to dive into the world of game development and learn how to bring creative ideas to life through code.
 
 ### 🚀 What I’m Currently Working On:
 - Scaling up my **Social Media Application** with new features like notifications and user interaction.
@@ -30,10 +30,9 @@ I have developed a range of projects that showcase my skills and creativity. Fro
 ### 🌟 Achievements:
 - Completed App Academy’s rigorous software development bootcamp, building several full-stack web applications.
 - Gained practical experience with modern technologies like **React**, **Redux**, **Express**, **Sequelize**, and **PostgreSQL**.
-- Developed a **game** using **Pygame** to enhance my Python skills.
 
 ### 🛠️ Technologies & Tools:
-- **Languages:** JavaScript, Python, HTML, CSS
+- **Languages:** JavaScript, Python, HTML, CSS, SQL
 - **Frameworks & Libraries:** React, Redux, Express, Sequelize, Flask, Pygame
 - **Databases:** PostgreSQL, SQLAlchemy
 - **Tools:** Git, GitHub, OpenAI API
