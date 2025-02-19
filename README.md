@@ -11,17 +11,26 @@
 
 ## About Me
 
-Hello! I'm a passionate full-stack developer currently studying at App Academy and American River College in California. At App Academy, I am focused on intensive software development training, and my college studies complement my technical skills with a broader academic foundation in Computer Science and Molecular Biology.
+Hello! I'm a passionate software developer currently studying at both App Academy and a college in California. At App Academy, I'm focusing on intensive software development training, while my college education complements my technical skills with a broader academic foundation. With experience in developing dynamic and user-friendly web applications, I have honed skills in time management, effective communication, teamwork, and problem-solving. My strong background in mathematics enhances my analytical capabilities. I’m dedicated to continuous learning and adapting quickly to new technologies. Feel free to explore my repositories and reach out if you’re interested in collaborating or discussing the latest in tech!
 
-I have developed a range of projects that showcase my skills and creativity. From web applications to game development, I’m constantly honing my craft and exploring new technologies.
-
-### 🚀 Projects I’ve Worked On:
-- **Airbnb Clone**: A full-stack web application where users can book vacation homes, similar to Airbnb. I worked with **React**, **Redux**, **Express**, and **Sequelize** to implement features like user authentication, home listings, and booking functionality. This project sharpened my skills in building scalable web applications and managing complex state with Redux.
+### 🚀 Completed Projects:
+<div style="display: grid; grid-template-columns: 45% 45%; column-gap: 20px">
+  <div style="width: 100%; border: 1px solid gray; height: 300px; text-align: center;">
+    <img src="./assets/groundbnb.png" style="width: 300px; margin-top: 15px;"/>
+    <h3 style="margin: 10px 0 10px 0">GroundBnb</h3>
+    <p><a href="" target="_blank">Github</a></p>
+    <p><a href="" target="_blank">Live Website</a></p>
+  </div>
+  <div style="width: 100%; border: 1px solid gray; height: 300px; text-align: center;">
+    <img src="./assets/wikidocs.png" style="width: 300px; margin-top: 15px;"/>
+    <h3 style="margin: 10px 0 10px 0">WikiDocs</h3>
+    <p style=""><a href="" target="_blank">Github</a></p>
+    <p style=""><a href="" target="_blank">Live Website</a></p>
+  </div>
+</div>
   
-- **WikiDocs**: A Wikipedia-like web application for uploading articles, prompts, and documents. Developed using **React**, **Redux**, **Flask** and **SQLAlchemy**, this project gave me practical experience in backend development and integrating front-end functionality with a clean and intuitive user interface.
+**WikiDocs**
 
-  
-- **Social Media Application**: An ongoing project built with **React**, **Redux**, **Express**, and **Sequelize**, focused on providing users with real-time interaction capabilities like posts, comments, and social networking features. This project allows me to deepen my knowledge in working with real-time data and creating engaging user experiences.
 
 
 ### 🚀 What I’m Currently Working On:
@@ -34,30 +43,34 @@ I have developed a range of projects that showcase my skills and creativity. Fro
 - Gained practical experience with modern technologies like **React**, **Redux**, **Express**, **Sequelize**, and **PostgreSQL**.
 
 ### 🛠️ Technologies & Tools:
-- **Languages:** JavaScript, Python, HTML, CSS, SQL
-- **Frameworks & Libraries:** React, Redux, Express, Sequelize, Flask, Pygame
-- **Databases:** PostgreSQL, SQLAlchemy
-- **Tools:** Git, GitHub, OpenAI API
 
-<div style="display:flex; justify-content: space-around;">
+<div style="display:grid; grid-template-columns: repeat(6, 70px); column-gap: 40px; row-gap: 40px;">
   <!-- JavaScript Logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70"/>
-
   <!-- Python Logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70"/>
-
   <!-- HTML Logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="70"/>
-
   <!-- CSS Logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="70"/>
-
   <!-- Express Logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="70"/>
-
   <!-- Sequelize Logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="70"/>
-
   <!-- React Logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70"/>
+  <!-- Flask Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="70"/>
+  <!-- Node.js Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="70"/>
+  <!-- Redux Logo -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="70"/>
+  <!-- Google Drive -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Drive" width="70"/>
+  <!-- OpenAI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="70"/>
+  <!-- SQLite3 -->
+  <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite3" width="70"/>
+  <!-- PostgreSQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70"/>
 </div>
