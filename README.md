@@ -49,7 +49,7 @@ Hello! I'm a passionate software developer with a strong foundation in full-stac
 - **OpenAI API**
 - **NodeJS**
 
-<div style="display:grid; grid-template-columns: repeat(6, 70px); column-gap: 40px; row-gap: 40px;">
+<div style="display:flex; gap: 20px;">
   <!-- JavaScript Logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70"/>
   <!-- Python Logo -->
@@ -64,8 +64,6 @@ Hello! I'm a passionate software developer with a strong foundation in full-stac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70"/>
   <!-- Redux Logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="70"/>
-  <!-- SQLite3 -->
-  <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite3" width="70"/>
   <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70"/>
 </div>
