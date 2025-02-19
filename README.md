@@ -1,8 +1,12 @@
-# Aaron Alvarado
+# Aaron Alvarado 
 
-**`Full-Stack Developer`**
+**`Full-Stack Developer`** 
 
-[Portfolio](aaronalvd.us)
+**Sacramento, CA** 
+
+**ayaldr@icloud.com**
+
+<h3><a href="aaronalvd.us" target="_blank">Visit Portfolio</a></h3>
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=AaronAlvd&show_icons=true&count_private=true&hide=prs&hide_border=true&theme=gruvbox" alt="GitHub Stats" width="400"/>
