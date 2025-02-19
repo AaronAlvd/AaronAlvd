@@ -13,30 +13,32 @@
 
 Hello! I'm a passionate software developer currently studying at both App Academy and a college in California. At App Academy, I'm focusing on intensive software development training, while my college education complements my technical skills with a broader academic foundation. With experience in developing dynamic and user-friendly web applications, I have honed skills in time management, effective communication, teamwork, and problem-solving. My strong background in mathematics enhances my analytical capabilities. I’m dedicated to continuous learning and adapting quickly to new technologies. Feel free to explore my repositories and reach out if you’re interested in collaborating or discussing the latest in tech!
 
-### 🚀 Completed Projects:
-<div style="display: grid; grid-template-columns: 45% 45%; column-gap: 20px">
-  <div style="width: 100%; border: 1px solid gray; height: 300px; text-align: center;">
+### Completed Projects
+<div style="display: flex;">
+  <div style="width: 100%; height: 300px; text-align: center;">
     <img src="./assets/groundbnb.png" style="width: 300px; margin-top: 15px;"/>
     <h3 style="margin: 10px 0 10px 0">GroundBnb</h3>
     <p><a href="" target="_blank">Github</a></p>
     <p><a href="" target="_blank">Live Website</a></p>
   </div>
-  <div style="width: 100%; border: 1px solid gray; height: 300px; text-align: center;">
+  <div style="width: 100%; height: 300px; text-align: center;">
     <img src="./assets/wikidocs.png" style="width: 300px; margin-top: 15px;"/>
     <h3 style="margin: 10px 0 10px 0">WikiDocs</h3>
     <p style=""><a href="" target="_blank">Github</a></p>
     <p style=""><a href="" target="_blank">Live Website</a></p>
   </div>
 </div>
-  
-**WikiDocs**
 
+### Projects In Progress
 
-
-### 🚀 What I’m Currently Working On:
-- Scaling up my **Social Media Application** with new features like notifications and user interaction.
-- Developing more interactive and complex game mechanics in **Pygame**.
-- Continuing to learn and implement the **OpenAI API** into different projects.
+<div style="display: flex;">
+  <div style="width: 100%; text-align: center;">
+    <img src="./assets/social.png" style="width: 600px; margin-top: 15px;"/>
+    <h3 style="margin: 10px 0 10px 0">Social App</h3>
+    <p><a href="" target="_blank">Github</a></p>
+    <p><a href="" target="_blank">Live Website</a></p>
+  </div>
+</div>
 
 ### 🌟 Achievements:
 - Completed App Academy’s rigorous software development bootcamp, building several full-stack web applications.
