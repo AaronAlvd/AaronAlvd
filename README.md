@@ -1,11 +1,3 @@
-# Aaron Alvarado 
-
-**`Full-Stack Developer`** 
-
-**Sacramento, CA** 
-
-**ayaldr@icloud.com**
-
 <h3><a href="aaronalvd.us" target="_blank">Visit Portfolio</a></h3>
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
